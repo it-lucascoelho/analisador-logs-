@@ -1,0 +1,37 @@
+Nov  4 08:02:11 servidor sshd[1101]: Accepted password for maria from 192.0.2.10 port 40011 ssh2
+Nov  4 08:45:30 servidor sshd[1115]: Accepted password for joao from 192.0.2.21 port 52311 ssh2
+Nov  4 09:12:44 servidor sshd[1132]: Failed password for maria from 192.0.2.10 port 40102 ssh2
+Nov  4 09:12:52 servidor sshd[1133]: Accepted password for maria from 192.0.2.10 port 40104 ssh2
+Nov  4 10:15:01 servidor sshd[1234]: Failed password for root from 203.0.113.50 port 51234 ssh2
+Nov  4 10:15:04 servidor sshd[1235]: Failed password for root from 203.0.113.50 port 51236 ssh2
+Nov  4 10:15:06 servidor sshd[1236]: Failed password for admin from 203.0.113.50 port 51238 ssh2
+Nov  4 10:15:09 servidor sshd[1237]: Failed password for admin from 203.0.113.50 port 51240 ssh2
+Nov  4 10:15:12 servidor sshd[1238]: Failed password for invalid user ubuntu from 203.0.113.50 port 51242 ssh2
+Nov  4 10:15:15 servidor sshd[1239]: Failed password for invalid user test from 203.0.113.50 port 51244 ssh2
+Nov  4 10:15:18 servidor sshd[1240]: Failed password for invalid user oracle from 203.0.113.50 port 51246 ssh2
+Nov  4 10:15:21 servidor sshd[1241]: Failed password for root from 203.0.113.50 port 51248 ssh2
+Nov  4 10:15:24 servidor sshd[1242]: Failed password for invalid user postgres from 203.0.113.50 port 51250 ssh2
+Nov  4 10:15:27 servidor sshd[1243]: Failed password for invalid user user from 203.0.113.50 port 51252 ssh2
+Nov  4 10:15:30 servidor sshd[1244]: Failed password for root from 203.0.113.50 port 51254 ssh2
+Nov  4 10:15:34 servidor sshd[1245]: Failed password for admin from 203.0.113.50 port 51256 ssh2
+Nov  4 10:16:10 servidor sshd[1250]: Accepted password for maria from 192.0.2.10 port 40122 ssh2
+Nov  4 11:30:05 servidor sshd[1301]: Failed password for invalid user teste from 198.51.100.7 port 40100 ssh2
+Nov  4 11:30:30 servidor sshd[1302]: Failed password for invalid user guest from 198.51.100.7 port 40102 ssh2
+Nov  4 11:30:55 servidor sshd[1303]: Failed password for invalid user admin1 from 198.51.100.7 port 40104 ssh2
+Nov  4 11:31:20 servidor sshd[1304]: Failed password for invalid user backup from 198.51.100.7 port 40106 ssh2
+Nov  4 11:31:45 servidor sshd[1305]: Failed password for invalid user ftp from 198.51.100.7 port 40108 ssh2
+Nov  4 11:32:10 servidor sshd[1306]: Failed password for invalid user git from 198.51.100.7 port 40110 ssh2
+Nov  4 12:10:03 servidor sshd[1340]: Accepted password for joao from 192.0.2.21 port 52400 ssh2
+Nov  4 13:05:17 servidor sshd[1360]: Failed password for deploy from 192.0.2.33 port 33010 ssh2
+Nov  4 14:20:01 servidor sshd[1402]: Failed password for root from 203.0.113.99 port 60001 ssh2
+Nov  4 14:20:03 servidor sshd[1403]: Failed password for root from 203.0.113.99 port 60003 ssh2
+Nov  4 14:20:05 servidor sshd[1404]: Failed password for root from 203.0.113.99 port 60005 ssh2
+Nov  4 14:20:07 servidor sshd[1405]: Failed password for root from 203.0.113.99 port 60007 ssh2
+Nov  4 14:20:09 servidor sshd[1406]: Failed password for root from 203.0.113.99 port 60009 ssh2
+Nov  4 14:20:11 servidor sshd[1407]: Failed password for root from 203.0.113.99 port 60011 ssh2
+Nov  4 14:20:13 servidor sshd[1408]: Failed password for root from 203.0.113.99 port 60013 ssh2
+Nov  4 14:20:15 servidor sshd[1409]: Failed password for root from 203.0.113.99 port 60015 ssh2
+Nov  4 15:40:52 servidor sshd[1450]: Failed password for deploy from 192.0.2.33 port 33044 ssh2
+Nov  4 16:02:30 servidor sshd[1470]: Accepted password for maria from 192.0.2.10 port 40300 ssh2
+Nov  4 18:22:09 servidor sshd[1520]: Failed password for deploy from 192.0.2.33 port 33100 ssh2
+Nov  4 19:10:45 servidor sshd[1540]: Accepted password for joao from 192.0.2.21 port 52500 ssh2
