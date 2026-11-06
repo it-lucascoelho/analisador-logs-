@@ -224,3 +224,4 @@ __marimo__/
 !amostras/*.log
 
 relatorio.*
+.pytest_cache/
