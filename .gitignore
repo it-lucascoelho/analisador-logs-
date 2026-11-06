@@ -222,3 +222,5 @@ __marimo__/
 # logs reais nunca sobem; só os de amostra
 *.log
 !amostras/*.log
+
+relatorio.*
